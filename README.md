@@ -6,5 +6,4 @@ mmmmmmmmmm
 nnnnnn
 ooooooooooo
 
-ppppppppppppp
-qqqqqqqqqqqq
+
